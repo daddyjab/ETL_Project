@@ -36,4 +36,4 @@ Python functions were created to manage scaping of the iwaspoisoned.com website,
 
 | Figure 1: I Was Poisoned - Scraping, Cleaning, and Loading into MongoDB - Jupyter Notebook |
 |----------|
-| ![Figure 1: I Was Poisoned - Scraping, Cleaning, and Loading into MongoDB - Loading...](docs/IWP-Scraping_Exploration.gif "Figure 1: I Was Poisoned - Scraping, Cleaning, and Loading into MongoDB - Jupyter Notebook") |
+| ![Figure 1: I Was Poisoned - Scraping and Cleaning is Loading...](docs/IWP-Scraping_Exploration.gif "Figure 1: I Was Poisoned - Scraping, Cleaning, and Loading into MongoDB - Jupyter Notebook") |
